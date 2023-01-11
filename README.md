@@ -1,2 +1,4 @@
 # Tertiary-conditions
-Shortens if/else statements 
+
+var animal = 'kitty';
+var result = (animal === 'kitty') ? 'cute' : 'still nice'; //cute 
